@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de despedida
+
+This log tracks the cryptographic history and versioning for the song **Besos de despedida** (besos-de-despedida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:39:00.922222 | `v1` | `e030e726e8191fde73ae1636b0b782f67b85e7c0776e3cd11eed7c86438577cc` | `2395b3928fc1387dfcd79580003d8fb2cb69f7c933f34082c8597fdea6c5de46` | `2026-06-19_besos-de-despedida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
