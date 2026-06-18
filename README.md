@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-despedida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos de despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-despedida/) |
+| **Get License** | [Obtain a Music License for Besos de despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-despedida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la calle se enciende y tú estás aquí
+> Buscando en la sombra lo que yo te puedo dar a ti
+> Un beso de despedida que te haga perder el control
+> Dime que te quedas sola y me entregas todo el corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
